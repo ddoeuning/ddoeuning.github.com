@@ -8,8 +8,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: <!-- Page Content -->
-<center>
-    <div class="container">
+ <div class="container">
 
         <div class="row">
 
@@ -40,5 +39,4 @@ description: <!-- Page Content -->
         </div>
 
     </div>
-</center>
 ---
