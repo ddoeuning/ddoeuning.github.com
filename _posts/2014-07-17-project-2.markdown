@@ -8,8 +8,8 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: <!-- Page Content -->
+<div style = "text-align=center">
  <div class="container">
-
         <div class="row">
 
             <div class="col-md-3">
@@ -39,4 +39,5 @@ description: <!-- Page Content -->
         </div>
 
     </div>
+</div>
 ---
