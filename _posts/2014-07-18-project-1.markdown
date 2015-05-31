@@ -9,32 +9,34 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 
-description:  <!-- Page Content -->
+description:  
+ <!-- Page Content -->
     <div class="container">
 
         <!-- Page Header -->
         <div class="row">
-            <div style="TEXT-ALIGN: center">
+            <div class="col-lg-12">
                 <h1 class="page-header">Page Heading
+                    <small>Secondary Text</small>
                 </h1>
             </div>
         </div>
         <!-- /.row -->
 
         <!-- Projects Row -->
-        <div style="TEXT-ALIGN: center">
-            <div class="col-lg-6 portfolio-item">
+        <div class="row">
+            <div class="col-md-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/550x400" alt="">
+                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                 </a>
                 <h3>
                     <a href="#">Project One</a>
                 </h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
             </div>
-            <div class="col-lg-6 portfolio-item">
+            <div class="col-md-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/550x400" alt="">
+                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                 </a>
                 <h3>
                     <a href="#">Project Two</a>
@@ -45,19 +47,19 @@ description:  <!-- Page Content -->
         <!-- /.row -->
 
         <!-- Projects Row -->
-<div style="TEXT-ALIGN: center">
-            <div class="col-lg-6 portfolio-item">
+        <div class="row">
+            <div class="col-md-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/550x400" alt="">
+                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                 </a>
                 <h3>
                     <a href="#">Project Three</a>
                 </h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
             </div>
-            <div class="col-lg-6 portfolio-item">
+            <div class="col-md-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/550x400" alt="">
+                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                 </a>
                 <h3>
                     <a href="#">Project Four</a>
@@ -67,4 +69,3 @@ description:  <!-- Page Content -->
         </div>
         <!-- /.row -->
 ---
-
