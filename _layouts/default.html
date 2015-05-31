@@ -2,21 +2,6 @@
 <html>
     {% include head.html %}
     <body id="page-top" class="index">
-    {% include nav.html %}
-    {% include header.html %}
-    {% include portfolio_grid.html %}
-    {% include about.html %}
-
-    {% if site.contact == "static" %}
-    {% include contact_static.html %}
-    {% else %}
-    {% include contact.html %}
-    {% endif %}
-
-    {% include footer.html %}
-    {% include modals.html %}
-    {% include js.html %}
-
 <div id="disqus_thread"></div>
 
 <script type="text/javascript">
@@ -43,5 +28,19 @@
 
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
-    </body>
+    {% include nav.html %}
+    {% include header.html %}
+    {% include portfolio_grid.html %}
+    {% include about.html %}
+
+    {% if site.contact == "static" %}
+    {% include contact_static.html %}
+    {% else %}
+    {% include contact.html %}
+    {% endif %}
+
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+</body>
 </html>
