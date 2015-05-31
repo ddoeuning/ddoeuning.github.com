@@ -26,7 +26,7 @@ description:  <!-- Page Content -->
         <div class="row">
             <div class="col-lg-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    <img class="img-responsive" src="http://placehold.it/600x400" alt="">
                 </a>
                 <h3>
                     <a href="#">Project One</a>
@@ -35,7 +35,7 @@ description:  <!-- Page Content -->
             </div>
             <div class="col-lg-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    <img class="img-responsive" src="http://placehold.it/600x400" alt="">
                 </a>
                 <h3>
                     <a href="#">Project Two</a>
@@ -49,7 +49,7 @@ description:  <!-- Page Content -->
         <div class="row">
             <div class="col-lg-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    <img class="img-responsive" src="http://placehold.it/600x400" alt="">
                 </a>
                 <h3>
                     <a href="#">Project Three</a>
@@ -58,7 +58,7 @@ description:  <!-- Page Content -->
             </div>
             <div class="col-lg-6 portfolio-item">
                 <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    <img class="img-responsive" src="http://placehold.it/600x400" alt="">
                 </a>
                 <h3>
                     <a href="#">Project Four</a>
